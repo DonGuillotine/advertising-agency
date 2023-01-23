@@ -10,3 +10,9 @@
 
 <h3>The Admin Dashboard allows the administrator to create and manage categories, adverts and employees, providing a centralized location for controlling and monitoring the system's functionality.</h3>
 <img src="https://user-images.githubusercontent.com/89584431/213916853-91b8e9f3-9961-445f-be2e-36e57b657599.jpg">
+
+<h3>The Employees can place orders for Customers, generate the Bill and Print.</h3>
+<img src="https://user-images.githubusercontent.com/89584431/213950093-7894d304-11e4-4da8-8468-c643f85e07e2.jpg">
+
+<h3>The Security Question can be changed to enhance security.</h3>
+<img src="https://user-images.githubusercontent.com/89584431/213950279-f49bf969-8922-4096-ac79-c59224c9e90a.jpg">
