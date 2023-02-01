@@ -38,3 +38,50 @@ I welcome and appreciate contributions to this open-source project!
 
 ## Additional Resources
 - [Issue tracker](https://github.com/DonGuillotine/advertising-agency/issues)
+
+# Java Installation Guide
+
+This guide will walk you through the steps of installing Java on your computer. 
+
+## System Requirements
+Before you proceed with the installation, make sure your system meets the following requirements:
+
+- Operating System: Windows, MacOS, or Linux
+- Processor: Intel or AMD processor with 64-bit architecture
+- Memory: At least 2 GB of RAM
+- Disk Space: At least 400 MB of free disk space
+
+## Download Java
+
+1. Go to the Java SE Downloads page by visiting the following URL: https://www.oracle.com/java/technologies/javase-downloads.html
+2. Under "Java SE", select the appropriate version for your system.
+3. Accept the license agreement and select the download link for your operating system.
+4. Save the downloaded file to your local computer.
+
+## Install Java
+
+1. Double-click the downloaded file to start the installation process.
+2. Follow the instructions displayed on the screen to complete the installation.
+3. Once the installation is complete, verify the installation by running the following command in the terminal/command prompt:
+
+```
+java -version
+```
+
+This should display the version of Java that you have installed.
+
+## Set up Environment Variables
+
+In order to run Java programs on your computer, you need to set up the environment variables to point to the Java installation.
+
+1. Go to the System Properties.
+2. Click on the Advanced System Settings link.
+3. Click on the Environment Variables button.
+4. Under System Variables, look for the `JAVA_HOME` variable. If it doesn't exist, create a new one.
+5. Set the value of `JAVA_HOME` to the location of your Java installation (e.g., `C:\Program Files\Java\jdk1.8.0_202`).
+6. Look for the `PATH` variable and append the following value to it: `%JAVA_HOME%\bin`.
+7. Restart your terminal/command prompt for the changes to take effect.
+
+## Conclusion
+
+With these steps, you should now have Java installed and set up on your computer. You can now start developing Java applications and run them on your computer.
