@@ -16,3 +16,24 @@
 
 <h3>The Security Question can be changed to enhance security.</h3>
 <img src="https://user-images.githubusercontent.com/89584431/213950279-f49bf969-8922-4096-ac79-c59224c9e90a.jpg">
+
+## Contributing to Advertising Agency
+I welcome and appreciate contributions to this open-source project!
+
+## Getting Started
+1. Fork this repository on GitHub
+2. Clone this repository to your local machine
+3. Create a new branch for your changes
+
+## Making Changes
+1. Add your changes
+2. Run tests (if applicable)
+3. Commit your changes with a clear and descriptive commit message
+
+## Submitting a Pull Request
+1. Push your changes to your fork on GitHub
+2. Open a Pull Request and include a clear and descriptive title and explanation of your changes
+3. I will review and merge your changes
+
+## Additional Resources
+- [Issue tracker](https://github.com/DonGuillotine/advertising-agency/issues)
