@@ -17,7 +17,8 @@
 <h3>The Security Question can be changed to enhance security.</h3>
 <img src="https://user-images.githubusercontent.com/89584431/213950279-f49bf969-8922-4096-ac79-c59224c9e90a.jpg">
 
-## Contributing to Advertising Agency
+  <h1 align="center">Contributing to Advertising Agency</h1>
+
 I welcome and appreciate contributions to this open-source project!
 
 ## Getting Started
